@@ -40,6 +40,6 @@ This project is licensed under the MIT License. You are free to use, modify, and
 ## 🌟 About Me
 Hi there! I'm Rico Araojo, a learner in Data Engineering and soon to become a Data Engineer. I’m a Computer Engineer who wants to transition in Data Engineering profession.
 
-## <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/c849777a-6d6f-4a31-97ad-3ab02469b8ed" /> Reference
+## <img width="1" height="1" alt="image" src="https://github.com/user-attachments/assets/c849777a-6d6f-4a31-97ad-3ab02469b8ed" /> Reference
 This output was based from the Youtube Tutorial [Data with Baraa](https://www.youtube.com/watch?v=9GVqKuTVANE&t=1258s)
 
