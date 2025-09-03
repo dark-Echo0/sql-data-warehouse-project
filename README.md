@@ -34,7 +34,7 @@ These insights empower stakeholders with key business metrics, enabling strategi
 ---
 
 ## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/46fdefba-6b6a-4b15-ab13-65d306067848" /> Insights
-This projects SQL Data Warehoues was implemented by the Instructor [Data with Baraa](https://www.youtube.com/watch?v=9GVqKuTVANE&t=1258s) on youtube that allow me to understand about Data Warehousing which are organizing, structuring and preparing  raw of datasets. 
+This projects SQL Data Warehoues was implemented by the Instructor [Data with Baraa](https://www.youtube.com/watch?v=9GVqKuTVANE&t=1258s) on youtube that allow me to understand about Data Warehousing which are organizing, structuring and preparing  raw of datasets using SQL Server. 
 ### In the Data Warehousing Stage, I implement a series of step:
 - **ETL/ELT Processing**
 - **Data Architecture**
