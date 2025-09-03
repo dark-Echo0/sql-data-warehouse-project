@@ -42,8 +42,7 @@ This projects SQL Data Warehoues was implemented by the Instructor [Data with Ba
 - **Data Cleansing**
 - **Data Load**
 - **Data Modeling**
-  
----
+
 ### To do this stage, we follows a Medallion Architecture
 Medallion Architecture a data design pattern that organizes data into three hierarchical layers to progressively improve data quality and usability within a lakehouse environment. The hierarchical layers are:
 -- **Bronze (raw data)**
