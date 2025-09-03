@@ -41,5 +41,5 @@ This project is licensed under the MIT License. You are free to use, modify, and
 Hi there! I'm Rico Araojo, a learner in Data Engineering and soon to become a Data Engineer. I’m a Computer Engineer who wants to transition in Data Engineering profession.
 
 ## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/a74f6954-2175-47f1-b7a2-a8b69a12e471" /> Reference
-This output was based from the Youtube Tutorial [Data with Baraa](https://www.youtube.com/watch?v=9GVqKuTVANE&t=1258s).
+This output was implemented based on the tutorial of the Instructor [Data with Baraa](https://www.youtube.com/watch?v=9GVqKuTVANE&t=1258s) of Youtube. 
 
