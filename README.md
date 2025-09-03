@@ -33,6 +33,25 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 ---
 
+## <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/c2ce8779-4c87-4ce0-93b7-c18f209d8d21" /> Insights
+This projects SQL Data Warehoues was implemented by the Instructor [Data with Baraa](https://www.youtube.com/watch?v=9GVqKuTVANE&t=1258s) on youtube that allow me to understand about Data Warehousing which are organizing, structuring and preparing  raw of datasets. 
+### In the Data Warehousing Stage, I implement a series of step:
+- **ETL/ELT Processing**
+- **Data Architecture**
+- **Data Integration**
+- **Data Cleansing**
+- **Data Load**
+- **Data Modeling**
+  
+---
+### To do this stage, we follows a Medallion Architecture
+Medallion Architecture a data design pattern that organizes data into three hierarchical layers to progressively improve data quality and usability within a lakehouse environment. The hierarchical layers are:
+-- **Bronze (raw data)**
+-- **Silver (cleaned data)**
+-- **Gold (business-ready data)**
+
+---
+
 ## 🛡️ License
 
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
